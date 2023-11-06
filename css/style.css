@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: sans-serif;
+    background: rgb(10, 153, 220);
+}
+
+.header {
+    background-color: rgb(83, 1, 214); 
+    text-align: center;
+    padding: 5px 10;
+    font-size: 40px;
+    border-radius: 0% 0% 10% 10%;
+}
+
+.video {
+    border-radius: 40px;
+    margin: 0 auto;
+    width: 500px;
+    display:block;
+    margin-top: 15px;
+}
+
+h1 {
+    text-align: center, left;
+    font-size: 20px;
+    margin: auto;
+    margin-top: 50px;
+    text-align: center;
+    padding-left: 110px;
+    padding-right: 110px;
+}
+
+.voltar {
+    padding-left: 15px;
+}
+
+.como-preparar-um-suco {
+    padding-left: 15px;
+}
